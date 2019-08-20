@@ -3,4 +3,4 @@
 
 Projeto desenvolvido com base na semana Omnistack da [@Rocketseat](https://github.com/rocketseat)
 
-![](\assets\logo-Tindev.png)
+![](logo-Tindev.png)
